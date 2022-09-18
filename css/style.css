@@ -1,0 +1,14 @@
+body{
+  max-width: 900px;
+  margin: auto;
+  border: 1px solid white;
+  padding: 10px;
+  background-color: #1e222a;
+  color: #c4c4c4;
+}
+
+nav a{
+  padding: 5px;
+  background-color: #04AA6D;
+  color: white;
+}
